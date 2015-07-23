@@ -1,0 +1,11 @@
+[
+{
+"modid": "dsmcmod",
+"name": "MineSouls",
+"description": "Only Estus Flasks for now.",
+"version": "0.1 WIP",
+"mcversion": "1.7.10",
+"url": "",
+"authorList": ["Xyniux"]
+}
+]
